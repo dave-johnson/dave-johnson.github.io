@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[a bit 0ff]]></title>
+  <link href="http://dave-johnson.github.io/atom.xml" rel="self"/>
+  <link href="http://dave-johnson.github.io/"/>
+  <updated>2013-04-22T22:33:22-05:00</updated>
+  <id>http://dave-johnson.github.io/</id>
+  <author>
+    <name><![CDATA[Dave Johnson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git started]]></title>
+    <link href="http://dave-johnson.github.io/git-started/"/>
+    <updated>2013-04-22T22:09:00-05:00</updated>
+    <id>http://dave-johnson.github.io/git-started</id>
+    <content type="html"><![CDATA[<p>I recently replaced my Mac.  New hardware and new OS.</p>
+
+<p>Now was the time to get it configured as an awesome programming machine.   I plan to list all what and how in the next post.</p>
+
+<p>At this time I going to start with how did I get this started.  <ol>
+<li> Set up Git.  The first time I ran through this, I realized that I hadn&#8217;t set up by ssh keys on this computer.  This caused a bunch of permission error when I tried to deploy.  <br><a href="https://help.github.com/articles/generating-ssh-keys">https://help.github.com/articles/generating-ssh-keys</a>
+<li> Start with Octopress. <br><a href="http://octopress.org/">http://octopress.org/</a>
+<li> How to set some better configuration. <br><a href="http://www.moncefbelyamani.com/how-to-install-and-configure-octopress-on-a-mac/">http://www.moncefbelyamani.com/how-to-install-and-configure-octopress-on-a-mac/</a>
+<li> Ready to deploy.<br>
+<a href="http://octopress.org/docs/deploying/github/">http://octopress.org/docs/deploying/github/</a>
+</ol></p>
+]]></content>
+  </entry>
+  
+</feed>
